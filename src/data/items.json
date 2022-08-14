@@ -1,0 +1,130 @@
+[
+    {
+        "id": 1,
+        "name": "4 сыра",
+        "price": 380,
+        "imgUrl": "/imgs/pizza4cheeses.png",
+        "category": "pizza",
+        "description": "Российский, маасдам, монарх и плавленный.",
+        "weight": "400г"
+    },
+    {
+        "id": 2,
+        "name": "Супер пицца",
+        "price": 400,
+        "imgUrl": "/imgs/pizzaSuper.png",
+        "category": "pizza",
+        "description": "Положили всё, что было.",
+        "weight": "400г"
+    },
+    {
+        "id": 3,
+        "name": "Маргарита",
+        "price": 290,
+        "imgUrl": "/imgs/pizzaMargarita.png",
+        "category": "pizza",
+        "description": "На вкус лучше, чем на вид!",
+        "weight": "400г"
+    },
+    {
+        "id": 4,
+        "name": "ВетчиСыр",
+        "price": 350,
+        "imgUrl": "/imgs/pizzaHam.png",
+        "category": "pizza",
+        "description": "На вкус как бутерброд перед школой.",
+        "weight":"380г"
+    },
+    {
+        "id": 5,
+        "name": "Вегетабле",
+        "price": 300,
+        "imgUrl": "/imgs/pizzaVeg.png",
+        "category": "pizza",
+        "description": "Даже не надеемся, что кто-то когда-то это закажет.",
+        "weight":"380г"
+        
+    },
+
+
+
+
+    {
+        "id": 6,
+        "name": "Мясное просветление",
+        "price": 350,
+        "imgUrl": "/imgs/pastaBolognese.png",
+        "category": "pasta",
+        "description":"Спагетти с фаршем и кетчупом. Моё любимое.",
+        "weight":"380г"
+    },
+    {
+        "id": 7,
+        "name": "Вет4ина",
+        "price": 280,
+        "imgUrl": "/imgs/pastaCarbonara.png",
+        "category": "pasta",
+        "description":"Пытается быть оригинальной, иногда зовет себя карбонара. На деле макароны с ветчиной.",
+        "weight": "250г"
+    },
+
+
+
+    {
+        "id": 8,
+        "name": "Кокетливая кола",
+        "price": 59,
+        "imgUrl": "/imgs/drinkBrown.png",
+        "category": "drink",
+        "description": "Холодная, из холодильника.",
+        "weight": "0.5л"
+    },
+    {
+        "id": 9,
+        "name": "Кола без красителей",
+        "price": 59,
+        "imgUrl": "/imgs/drinkGreen.png",
+        "category": "drink",
+        "description":"Самая честная в этой пиццерии.",
+        "weight": "0.5л"
+    },
+    {
+        "id": 10,
+        "name": "Орандж спарклс",
+        "price": 59,
+        "imgUrl": "/imgs/drinkOrange.png",
+        "category": "drink",
+        "description":"Фанта?",
+        "weight": "0.5л"
+    },
+
+
+
+    {
+        "id": 11,
+        "name": "Кишка врага",
+        "price": 90,
+        "imgUrl": "/imgs/desertWaffle.png",
+        "category": "desert",
+        "description": "Классическая трубочка. Внутри пустота.",
+        "weight": "150г"
+    },
+    {
+        "id": 12,
+        "name": "Розовое облако",
+        "price": 100,
+        "imgUrl": "/imgs/desertIcecream.png",
+        "category": "desert",
+        "description": "Клубничное мороженое со вкусом юпи в вафельном рожке. Рожок внутри пустой.",
+        "weight": "200г"
+    },
+    {
+        "id": 13,
+        "name": "Куки",
+        "price": 50,
+        "imgUrl": "/imgs/desertCookie.png",
+        "category": "desert",
+        "description": "Печенье со всеми видами шоколада Яшкино.",
+        "weight": "120г"
+    }
+]

@@ -1,0 +1,108 @@
+* {
+    box-sizing: border-box;
+}
+
+/* particular elements*/
+.learn-more {
+    color: orange;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.learn-more:hover {
+    color: black
+}
+
+.price-btn {
+    background: orange;
+    border: 2px solid black;
+    color: black
+}
+
+.price-btn:hover {
+    background-color: #111111;
+    color: orange;
+    border: 2px solid orange
+}
+
+
+.order-btn {
+    margin: 4em auto;
+    padding: .7em;
+    width: 80%;
+    border: 2px black solid;
+    background-color: orange;
+}
+
+.order-btn:hover {
+    background-color: black;
+    color: orange;
+}
+
+
+.order-btn[disabled] {
+    margin: 4em auto;
+    border: 2px #555555 solid;
+    color: #888888;
+    background-color: orange;
+}
+
+.nav--link {
+    text-decoration: none;
+    color: black;
+    padding: .8em 1.5em
+}
+
+.nav--link:hover{
+    color: white;
+    background: black;
+}
+
+.close-button {
+    border: 2px solid black;
+    background-color: black;
+    color: white;
+    padding-inline: .5em
+}
+
+.close-button:hover {
+    background-color: red;
+    color: black
+}
+
+/* utility classes */
+
+.direction-column {
+    flex-direction: column;
+}
+
+.p-inline-1 {padding-inline: .7em;}
+
+.center-align {
+    align-items: center;
+    justify-content: center
+}
+
+.text-center {
+    text-align: center
+}
+
+.bg-orange {
+    background-color: orange
+}
+
+.border-black {
+    border: 2px black solid
+}
+
+.padding-1 {padding: 1em}
+.padding-2 {padding: 2em}
+.padding-3 {padding: 3em}
+
+
+
+.fs-xs {font-size: .8rem}
+.fs-sm {font-size: 1.2rem}
+.fs-md {font-size: 2rem}
+.fs-lg {font-size: 3rem}
+.fs-xl {font-size: 4rem}
