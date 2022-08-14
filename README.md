@@ -1,7 +1,7 @@
 # pizza
 Стек: 
-React
-Typescript 4.7.4
+React,
+Typescript 4.7.4,
 Bootstrap-5
 
 Стиль:
